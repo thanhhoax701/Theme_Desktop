@@ -1,0 +1,6 @@
+1) Giải nén ra
+2) Chạy W11ClassicMenu.exe
+3) Chọn dòng Enable Win11 Classic Context Menu Style
+
+Muốn quay về y cũ như win 11 thì chọn Restart Explorer
+
